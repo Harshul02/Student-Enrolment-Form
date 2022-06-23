@@ -12,6 +12,8 @@ h1{
     margin-top: 0%;
     padding-top: 2%;
     margin-bottom: 1em;
+    color: white;
+    font-family: 'Dancing Script', cursive;
 }
 
 img{
@@ -73,6 +75,16 @@ img{
     height:150px;
     
 }
+
+button{
+    align-items: center;
+    background-color: #fdd3d3;
+    border: 1px solid #ceddfd;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 17px;
+}
+
 @media all and (max-width:900px){
     .output{
         display:grid;
